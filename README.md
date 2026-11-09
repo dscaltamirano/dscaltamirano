@@ -12,7 +12,3 @@ and algorithms for artificial intelligence and computer vision.
 - Evolutionary Optimization
 - Scientific Computing (C++/CUDA)
 
-## Projects
-- Research implementations
-- GPU computing
-- AI & Data Science educational resources
