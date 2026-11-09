@@ -1,9 +1,18 @@
-I work on GPU-accelerated research and performance engineering.
+# Gerardo Altamirano, Ph.D.
 
-My focus includes:
-- CUDA C++ kernel design and optimization
-- Performance analysis (memory-bound vs compute-bound workloads)
-- Reproducible benchmarks for research and applied systems
+AI researcher and university professor specializing in
+computer vision, deep learning, and geometric algebras.
 
-I am particularly interested in accelerating research workloads,
-including statistical methods, computer vision, and custom CUDA extensions.
+My work focuses on developing computational methods
+and algorithms for artificial intelligence and computer vision.
+
+## Research Interests
+- Computer Vision & Deep Learning
+- Hypercomplex Neural Networks
+- Evolutionary Optimization
+- Scientific Computing (C++/CUDA)
+
+## Projects
+- Research implementations
+- GPU computing
+- AI & Data Science educational resources
