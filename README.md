@@ -1,10 +1,8 @@
 # Gerardo Altamirano, Ph.D.
 
-AI researcher and university professor specializing in
-computer vision, deep learning, and geometric algebras.
+Research professor working in artificial intelligence, data science, and applied mathematics.
 
-My work focuses on developing computational methods
-and algorithms for artificial intelligence and computer vision.
+My research focuses on developing models and algorithms for artificial intelligence and computer vision using geometric algebras.
 
 ## Research Interests
 - Computer Vision & Deep Learning
